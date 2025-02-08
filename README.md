@@ -70,14 +70,21 @@
    - sensitivity, precision, specificity와 F1 score를 확인한다.
    - 각 분류 예측 결과에 대한 ROC 곡선 및 AUC를 계산한다.
    - 결정 트리의 갯수에 따른 F1 score와 정확도를 확인한다.
+   - **최종 결과**
+     - F1 score : 0.933
+     - 정확도 : 96.1%
+     - AUC : 0.955
 
-**5. **기대 효과****
-   - 세종시 교통 체증 완화
-   - 세종시가 차 없는 도시라는 이미지에 더 가까워질 수 있음.
-   - 궁극적으로 세종시 시민의 삶의 질 향상을 기대할 수 있음.
+**6. **R shiny를 통한 UI 홈페이지 제작****
+   - [R shiny UI 홈페이지 접속 링크](https://spi-predictor.shinyapps.io/spi100/)
 
+**7. 기대효과**
+   - 효율적인 물 자원 관리
+   - 조기 경보 시스템 구축
+   - 기후 변화 대응
 
 ## 🧑🏻‍💻환경
-- Python
-- VScode
+- SQL(Oracle)
+- R
+- R shiny
 
