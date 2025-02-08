@@ -2,7 +2,7 @@
 <hr>
 <p style="text-align: center;">
     <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf" target="_blank">
-        <img src="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+        <img src="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EC%88%98%EC%9E%90%EC%9B%90%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
