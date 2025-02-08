@@ -1,12 +1,12 @@
 <h1 style="text-align: center;">💧2024년 K-water 대국민 물 빅데이터 공모전</h1>
 <hr>
 <p style="text-align: center;">
-    <a href="https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf" target="_blank">
+    <a href="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EB%B0%9C%ED%91%9C%20%ED%94%BC%ED%94%BC%ED%8B%B0%20v1.0_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">
         <img src="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EC%88%98%EC%9E%90%EC%9B%90%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
-[프로젝트 발표 자료](https://github.com/donghyun0518/sejong-bigdata-mclp-optics/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf)
+[프로젝트 발표 자료](https://github.com/donghyun0518/K-water-bigdata/blob/main/%EB%B0%9C%ED%91%9C%20%ED%94%BC%ED%94%BC%ED%8B%B0%20v1.0_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
 
 ## 🔍 프로젝트 개요
 - **목적** : 세종시 출퇴근 시간대 교통 체증 완화를 통한 시민의 삶의 질 향상
