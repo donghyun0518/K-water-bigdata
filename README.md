@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">💧2024년 K-water 대국민 물 빅데이터 공모전</h1>
 <hr>
 <p style="text-align: center;">
-    <img src="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EC%88%98%EC%9E%90%EC%9B%90%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+    <img src="https://github.com/donghyun0518/K-water-bigdata/blob/main/K-water.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     <a href="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EB%B0%9C%ED%91%9C%20%ED%94%BC%ED%94%BC%ED%8B%B0%20v1.0_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">
         <img src="https://github.com/donghyun0518/K-water-bigdata/blob/main/%EC%88%98%EC%9E%90%EC%9B%90%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
